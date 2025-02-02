@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello, I'm BEGDOURI TERRAF MARWA  
 
-<!--
-**begdouri-marwa/begdouri-marwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Web Development Student** | 💻 **Aspiring Full-Stack Developer**  
+🌍 Passionate about building **efficient, scalable, and user-friendly** web applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 🎓 Currently studying **Web Development**  
+- 💡 Interested in **Frontend, Backend, Databases & UI/UX**  
+- 🛠️ Learning **Laravel, PHP, JavaScript, MySQL, and more**  
+- 🌱 Exploring new technologies to **improve my coding skills**  
+- 🎤 Also working on my **public speaking & communication skills**  
+
+---
+
+## 🛠️ Technologies & Tools  
+
+🔹 **Languages:** PHP, JavaScript, SQL, HTML, CSS  
+🔹 **Frameworks & Libraries:** Laravel, Bootstrap  
+🔹 **Database Management:** MySQL  
+🔹 **Version Control:** Git & GitHub  
+🔹 **Tools:** VS Code, WAMP  
+
+---
+
+## 📌 Current Project  
+
+🚀 **Tech Horizons** – A Laravel-based **online magazine** where users can explore and propose articles.  
+
+---
+
+## 📫 Connect with Me  
+
+🔗 [https://www.linkedin.com/in/marwa-begdouri-37a7772b6/](#) | 
+
+---
+
+⭐ _“The best way to predict the future is to create it.”_ – Peter Drucker  
