@@ -15,5 +15,5 @@
 - Software Engineering
 
 ### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/marwa-begdouri-37a7772b6/)
+- [LinkedIn](https://www.linkedin.com/in/marwa-begdouri-terraf-37a7772b6/)
 
