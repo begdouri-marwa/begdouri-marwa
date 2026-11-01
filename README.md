@@ -1,40 +1,19 @@
-# 👋 Hello, I'm BEGDOURI TERRAF MARWA  
+# Hi, I'm Marwa Begdouri Terraf 👋
 
-🎓 **Web Development Student** | 💻 **Aspiring Full-Stack Developer**  
-🌍 Passionate about building **efficient, scalable, and user-friendly** web applications.  
+🎓 **Final-Year Master's Student in Artificial Intelligence & Data Science** at FST Tangier.
 
----
+💻 Bachelor's degree in **Software Engineering and Application Development**.
 
-## 🚀 About Me  
+🤖 Interested in **Machine Learning, Deep Learning, and Computer Vision**.
 
-- 🎓 Currently studying **Web Development**  
-- 💡 Interested in **Frontend, Backend, Databases & UI/UX**  
-- 🛠️ Learning **Laravel, PHP, JavaScript, MySQL, and more**  
-- 🌱 Exploring new technologies to **improve my coding skills**  
-- 🎤 Also working on my **public speaking & communication skills**  
+🚀 Passionate about building intelligent applications and exploring how AI can solve real-world problems.
 
----
+### 🎯 Areas of Interest
+- Machine Learning & Deep Learning
+- Computer Vision
+- AI-powered Applications
+- Software Engineering
 
-## 🛠️ Technologies & Tools  
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/marwa-begdouri-37a7772b6/)
 
-🔹 **Languages:** PHP, JavaScript, SQL, HTML, CSS  
-🔹 **Frameworks & Libraries:** Laravel, Bootstrap  
-🔹 **Database Management:** MySQL  
-🔹 **Version Control:** Git & GitHub  
-🔹 **Tools:** VS Code, WAMP  
-
----
-
-## 📌 Current Project  
-
-🚀 **Tech Horizons** – A Laravel-based **online magazine** where users can explore and propose articles.  
-
----
-
-## 📫 Connect with Me  
-
-🔗 [https://www.linkedin.com/in/marwa-begdouri-37a7772b6/](#) | 
-
----
-
-⭐ _“The best way to predict the future is to create it.”_ – Peter Drucker  
